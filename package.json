@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_crash_course",
+  "version": "1.0.0",
+  "description": "Every Fundamental Projects in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Shell-thon/Nodejs_Crash_Course.git"
+  },
+  "author": "Shell-thon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shell-thon/Nodejs_Crash_Course/issues"
+  },
+  "homepage": "https://github.com/Shell-thon/Nodejs_Crash_Course#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

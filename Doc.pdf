@@ -1,0 +1,76 @@
+################################
+##  WHAT YOU SHOULD KNOW FIRST
+################################
+
+- JavaScript Fundamentals (Objects, Arrays, Conditionals, etc.)
+
+Learn the following concept below
+
+- HTTP (status code, headers, etc)
+- JSON
+- Arrow Functions
+- Promises
+- MVC Pattern
+
+WHY USE NODE FOR SERVER-SIDE TECHNOLOGY?
+
+- Fast, efficient and highly scalable
+
+- Event driven, non-blocking I/O model
+
+- Popular in the industry
+
+-Same language onn the front and back end (JS)
+
+
+NON_BLOCKING I/O
+
+- Works on a single thread using non-blocking I/O calls
+
+- Supports ten of thousands concurrent connections
+
+- Optimizes through put & scalability in apps with many I/O operations
+
+- All of this makes Node.js apps super fast & efficient
+
+BEST TYPES OF PROJECTS FOR NODE
+
+- REST API & Microservices
+
+- Real Time Services (Chat, Live Updates)
+
+- CRUD APPs - Blogs, Shopping Carts, Social Networks
+
+- Tools & Utilities
+
+- Anything that is not CPU intensive
+
+NPM - NODE PACKAGE MANAGER
+
+- Install 3rd party packages (frameworks, libraries, tools, etc)
+
+- Package get stored in the "node_modules" folder
+
+- All dependencies are listed in a 'package.json' file
+
+- NPM scripts can be created to run certain tasks such as run a server
+
+# commands
+
+`npm init`			Generates a package.json file
+
+`npm install express`		Install a package.json file
+
+`npm install -g nodemon`	Install a package globally
+
+
+NODE MODULES
+
+- Node Core Modules (path, fs, http. etc)
+
+- 3rd party modules/packages installed via NPM
+
+- Custom modules (files)
+
+const path = require (`path`);
+const myFile = require (`./myFile`);
