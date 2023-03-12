@@ -1,4 +1,4 @@
-# Node.js Crash Course - Michael
+# Node.js Crash Course
 
 Through this course, you'll learn how to use Node.js to create server side applications, as well as use it to interact with databases and APIs. You'll also learn how to debug Node.js applications, use npm to manage packages, and work with popular frameworks.
 
